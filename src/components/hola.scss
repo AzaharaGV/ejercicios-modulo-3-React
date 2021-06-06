@@ -1,27 +1,13 @@
-.App {
-  background-color: aquamarine;
-}
-.App {
-  width: 500px;
-  margin-left: 50px;
-  margin-top: 50px;
-}
-.picture {
-  width: 100px;
-  border-radius: 50%;
-  margin-right: 20px;
-}
-.header {
-  display: flex;
-  flex-direction: row;
+.cat1 {
+  width: 200px;
+  height: 200px;
 }
 
-.heart {
-  color: red;
+.cat2 {
+  width: 200px;
+  height: 400px;
 }
-.footer {
-  display: flex;
-}
-.more {
-  margin-right: 400px;
+.cat3 {
+  width: 400px;
+  height: 200px;
 }
