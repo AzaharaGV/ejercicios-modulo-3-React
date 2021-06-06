@@ -1,4 +1,4 @@
-import "../stylesheets/App.css";
+import "./hola.scss";
 import pic from "../images/foto.png";
 import React from "react";
 
